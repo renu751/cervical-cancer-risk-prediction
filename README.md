@@ -1,4 +1,10 @@
 # 🩺 Cervical Cancer Risk Prediction API
+## 🌐 Live Demo
+The API is deployed live on the cloud using Render.
+
+🔗 **Live URL:**  
+https://cervical-cancer-risk-prediction.onrender.com/docs
+
 
 An end-to-end **medical risk prediction system** built using machine learning, FastAPI, and Docker.  
 The project focuses on **early cervical cancer risk screening**, with special emphasis on **reducing false negatives**, which is critical in healthcare applications.
